@@ -34,9 +34,9 @@
 **7) Hướng dẫn:**
 
   1. Mở trình duyệt của bạn lên
-	2. Vào localhost
-	3. Viết giày cần tìm  vào thanh tìm kiếm 
-	4. Kết quả hiển thị sẽ cho biết được số sản phẩm tìm được và thông tin của từng sản phẩm bao gồm hình ảnh, giá.
+  2. Vào localhost
+  3. Viết giày cần tìm  vào thanh tìm kiếm 
+  4. Kết quả hiển thị sẽ cho biết được số sản phẩm tìm được và thông tin của từng sản phẩm bao gồm hình ảnh, giá.
 	
 ![enter image description here](https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/59629494_2228246720597386_1659702494206361600_n.png?_nc_cat=108&_nc_oc=AQlJF0LFRxNwNdAWuqpwD6IvKZuLKl1D6mUdIoGQnZK5kdtMrZPukAlSbY-ReTEh19A&_nc_ht=scontent.fhan2-3.fna&oh=49fdfefa3e39d3156ba35ffae47d5dbb&oe=5D7494A6)
 
