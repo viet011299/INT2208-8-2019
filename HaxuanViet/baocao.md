@@ -28,7 +28,6 @@
 
  - Kiểm thử hộp trắng đảm bảo mã nguồn không bị lỗi, build và run được.
  -   Sử dụng localhost để chỉnh bố cục cho thanh tìm kiếm trên web
- -  Sử dụng localhost kiểm tra xem web có cho gõ vào thanh tìm kiếm hay không
  - Sử dụng localhost để kiểm tra xem web trả về có đúng kết quả tìm kiếm hay không
 
 **7) Hướng dẫn:**
