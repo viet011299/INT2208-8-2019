@@ -11,8 +11,8 @@
  
  **1) Xác định yêu cầu :**	
 		
- - Tìm kiếm sản phẩm ngay tại trên web
- - Tìm kiếm nhanh và chính xác sản phẩm hoặc những sản phẩm có liên quan đến từ khóa người dùng nhập
+ - Lọc sản phẩm ngay tại trên web
+ - Lọc nhanh và chính xác sản phẩm hoặc những sản phẩm có liên quan 
 
 **2) Quy trình phát triển Scrum (process) [(Quy trình Scrum)](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.wgcflgn6nhvc)**
 
